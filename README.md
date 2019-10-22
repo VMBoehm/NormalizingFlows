@@ -1,3 +1,3 @@
 # NormalizingFlows
 
-a playground for using normalizing flows for data compression
+a playground for injective generative models
