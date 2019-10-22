@@ -1,3 +1,3 @@
 # NormalizingFlows
 
-a playground for injective generative models
+a playground for tetsing normalizing flows and injective generative models
